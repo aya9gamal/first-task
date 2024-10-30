@@ -50,7 +50,7 @@ yargs.command({
         }
       },
     handler : (x)=>{
-        console.log(x)
+        // console.log(x)
         dataexport.delateperson(x.id)
     }
 })
