@@ -8,5 +8,5 @@
   { "id": 7, "fname": "aya", "lname": "gamal", "age": 25, "city": "assuit" },
   { "id": 8, "fname": "aya", "lname": "gamal", "age": 25, "city": "assuit" },
   { "id": 9, "fname": "aya", "lname": "gamal", "age": 25, "city": "assuit" },
-  { "id": 10, "fname": "aya", "lname": "gamal", "age": 25, "city": "assuit" }
+  { "id": 10, "fname": "ahmed", "lname": "kamal", "age": 30, "city": "Giza" }
 ]

@@ -53,7 +53,7 @@ const delateperson = (id)=>{
     const keepdata =data.filter(obj =>{
         return obj.id !== id
     })
-    console.log(keepdata)
+    // console.log(keepdata)
       savedata(keepdata)
 
   
